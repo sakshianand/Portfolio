@@ -1,7 +1,7 @@
 # Web Portfolio
 This is the web Portfolio for Udacity Nanodegree.
 ---
-#Technologies Used:
+# Technologies Used:
 
 * HTML5
 * CSS3
