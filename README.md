@@ -1,5 +1,6 @@
 # Web Portfolio
-This is the web Portfolio for Udacity Nanodegree.
+
+This is the Portfolio Site for Udacity Nanodegree.
 ---
 # Technologies Used:
 
